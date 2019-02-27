@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CurtisBellamy MarkNguyen</string>
+    <string name="region">Region</string>
+    <string name="population">Population</string>
+    <string name="area">Area</string>
+    <string name="borders">Borders</string>
+    <string name="capital">Capital</string>
+    <string name="population2">Pop.</string>
+
 </resources>

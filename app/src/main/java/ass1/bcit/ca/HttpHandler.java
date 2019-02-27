@@ -1,4 +1,4 @@
-package ca.bcit.assignment1;
+package ass1.bcit.ca;
 
 import android.util.Log;
 

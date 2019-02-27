@@ -1,4 +1,4 @@
-package ca.bcit.assignment1;
+package ass1.bcit.ca;
 
 public class Country {
 

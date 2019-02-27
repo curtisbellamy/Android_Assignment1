@@ -11,9 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".CountryInfo"></activity>
-        <activity android:name=".Countries" />
-        <activity android:name=".MainActivity">
+        <activity android:name="ass1.bcit.ca.CountryInfo"></activity>
+        <activity android:name="ass1.bcit.ca.Countries" />
+        <activity android:name="ass1.bcit.ca.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

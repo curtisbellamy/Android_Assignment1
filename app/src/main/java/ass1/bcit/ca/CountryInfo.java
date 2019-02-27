@@ -1,4 +1,4 @@
-package ca.bcit.assignment1;
+package ass1.bcit.ca;
 
 import android.app.ProgressDialog;
 import android.os.AsyncTask;
@@ -15,7 +15,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import java.util.ArrayList;
+import ca.bcit.assignment1.R;
 
 public class CountryInfo extends AppCompatActivity {
 

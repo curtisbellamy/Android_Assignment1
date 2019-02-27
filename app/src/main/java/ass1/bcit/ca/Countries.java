@@ -1,4 +1,4 @@
-package ca.bcit.assignment1;
+package ass1.bcit.ca;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
@@ -9,7 +9,6 @@ import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import org.json.JSONArray;
@@ -17,6 +16,8 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
+
+import ca.bcit.assignment1.R;
 
 public class Countries extends AppCompatActivity {
     private String TAG = MainActivity.class.getSimpleName();

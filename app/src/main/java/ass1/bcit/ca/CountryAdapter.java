@@ -1,4 +1,4 @@
-package ca.bcit.assignment1;
+package ass1.bcit.ca;
 
 import android.app.Activity;
 import android.content.Context;
@@ -6,10 +6,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.ArrayList;
+
+import ca.bcit.assignment1.R;
 
 public class CountryAdapter extends ArrayAdapter<Country> {
     Context _context;
