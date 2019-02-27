@@ -83,7 +83,6 @@ public class Countries extends AppCompatActivity {
 
             if (jsonStr != null) {
                 try {
-                    //JSONObject jsonObj = new JSONObject(jsonStr);
 
                     // Getting JSON Array node
                     JSONArray countryJsonArray = new JSONArray(jsonStr);
